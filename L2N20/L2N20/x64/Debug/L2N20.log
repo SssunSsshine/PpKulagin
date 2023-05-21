@@ -1,0 +1,8 @@
+﻿  L2N20.cpp
+D:\User\unic\PP\PpKulagin\L2N20\L2N20\L2N20.cpp(187,25): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\User\unic\PP\PpKulagin\L2N20\L2N20\L2N20.cpp(188,24): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\User\unic\PP\PpKulagin\L2N20\L2N20\L2N20.cpp(191,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\User\unic\PP\PpKulagin\L2N20\L2N20\L2N20.cpp(191,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\User\unic\PP\PpKulagin\L2N20\L2N20\L2N20.cpp(198,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\User\unic\PP\PpKulagin\L2N20\L2N20\L2N20.cpp(198,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  L2N20.vcxproj -> D:\User\unic\PP\PpKulagin\L2N20\x64\Debug\L2N20.exe
